@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;  
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    background-color: #969892;
+}
+.main{
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+input{
+    width: 100%;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #eee;
+}
+li:hover {
+    background-color:#dddddd ;
+}
+
